@@ -32,6 +32,7 @@ Hosted services
 Self-hosted services
 --------------------
 - [JSNLog](http://jsnlog.com/)
+- [Self-Hosted Sentry](https://github.com/getsentry/onpremise) - on-premise version. a minimal setup that works out-of-the-box for simple use cases.
 
 
 Comparisons between services
